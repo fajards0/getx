@@ -7,6 +7,7 @@ import '../views/your_event_view.dart';
 import '../views/profile_view.dart';
 import '../../../data/event_response.dart';
 import '../../../data/detail_event_response.dart';
+import '../../../data/your_event_response.dart';
 
 class DashboardController extends GetxController {
   final _getConnect = GetConnect();
